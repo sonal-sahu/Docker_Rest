@@ -1,0 +1,59 @@
+{
+    "employees": [{
+            "employeeId": "1",
+            "name": "Rahul",
+            "title": "Consultant",
+            "salary": "100000",
+            "emailid": "rahul@gmail.com",
+            "description": "Offer advice and expertise to organisations to help them improve their business performance in terms of operations, profitability, management, structure and strategy."
+        },
+        {
+            "employeeId": "2",
+            "name": "Nikhita",
+            "title": "Software Developer",
+            "salary": "150000",
+            "emailid": "nikhita@gmail.com",
+            "description": "Plays a key role in the design, installation, testing and maintenance of software systems."
+        },
+        {
+            "employeeId": "3",
+            "name": "Sonal",
+            "title": "Senior Software Developer",
+            "salary": "150000",
+            "emailid": "sonal21@gmail.com",
+            "description": "Partake in the design, architecture, and development of advanced software solutions, and provide high levels of system support."
+        },
+        {
+            "employeeId": "4",
+            "name": "Priya",
+            "title": "Product Manager",
+            "salary": "500000",
+            "emailid": "priya65@gmail.com",
+            "description": "Develops products by identifying potential products; conducting market research; generating product requirements."
+        },
+        {
+            "employeeId": "5",
+            "name": "Rohan",
+            "title": "Consultant",
+            "salary": "300000",
+            "emailid": "rohit@gmail.com",
+            "description": "Plays a key role in the design, installation, testing and maintenance of software systems."
+        },
+        {
+            "employeeId": "6",
+            "name": "Arya",
+            "title": "Business Analyst",
+            "salary": "150000",
+            "emailid": "arya@gmail.com",
+            "description": "Examine data, processes and systems, and use their findings to help companies make better business decisions. "
+        },
+        {
+            "employeeId": "7",
+            "name": "Nancy",
+            "title": "Software Developer",
+            "salary": "100000",
+            "emailid": "nancy@gmail.com",
+            "description": "Plays a key role in the design, installation, testing and maintenance of software systems."
+        }
+    ]
+}
