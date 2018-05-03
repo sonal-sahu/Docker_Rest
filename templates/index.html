@@ -16,6 +16,19 @@
          background-color: cadetblue;
          height: 30%;
          }
+          a:link {
+         color: green;
+         }
+         a:visited {
+         color: green;
+         }
+         a:hover {
+         color: red;
+         font-size: 22px;
+         }
+         a:active {
+         color: yellow;
+         }
          
       </style>
    </head>
@@ -37,9 +50,7 @@
          <tbody>
             {% for data in list_data %}
             <tr>
-               <a href="/employee">
-                  <td scope="row"> {{ data.employeeId }} </td>
-               </a>
+               <td scope="row"> <a href="/employees/{{ data.employeeId }}"> {{ data.employeeId }} </a> </td>
                <td scope="row"> {{ data.name }} </td>
                <td scope="row"> {{ data.title }} </td>
                <td scope="row"> {{ data.salary }} </td>
